@@ -302,7 +302,7 @@ function dateAdd(date, month) {
 
 let date = new Date();
 
-// It's hard to to tell from the function name what is added
+// It's hard to tell from the function name what is added
 dateAdd(date, 1);
 ```
 
